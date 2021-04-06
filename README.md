@@ -10,7 +10,7 @@ Email: boyu.liu@gmail.com
 
 ### 入门书籍
 
-* [<<区块链技术指南>>](https://yeasy.gitbooks.io/blockchain_guide/content)
+* [<<区块链技术指南>>](https://yeasy.gitbook.io/blockchain_guide/content)
 * [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book) - 强烈推荐
 
 ### 行业报告
